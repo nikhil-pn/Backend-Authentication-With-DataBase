@@ -1,3 +1,6 @@
+
+//try using replit https://replit.com/@NikhilPn1/Backend-Authentication-With-DataBase#public/signUp.html
+
 const express = require("express");
 const auth = require("./routes/authRoutes");
 const PORT = 1338;
